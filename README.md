@@ -1,8 +1,8 @@
 # Python
 
-</> This repository containing some examples python 
+</> This repository containing some examples python <br />
 
-📑Contents
-✔️Numpy Exercises
-✔️Pandas Exercises
-✔️String Exercises
+📑Contents<br />
+✔️Numpy Exercises<br />
+✔️Pandas Exercises<br />
+✔️String Exercises<br />
