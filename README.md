@@ -6,3 +6,4 @@
 ✔️Numpy Exercises<br />
 ✔️Pandas Exercises<br />
 ✔️String Exercises<br />
+✔️Python Game: Rock, Paper, Scissors<br />
